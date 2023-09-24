@@ -24,6 +24,8 @@ vmess://eyJhZGQiOiIxMDMuMjUzLjI0LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoidHNl
 vmess://eyJhZGQiOiJvdm8uaWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJzZzMuc29jaWZpbGVzLmNvbSIsImlkIjoiZTBmMzE3NTAtNWFhOS0xMWVlLWFjY2ItMTIzOWQwMjU1MjcyIiwibmV0Ijoid3MiLCJwYXRoIjoiL3Ztd3MiLCJwb3J0IjoiODAiLCJwcyI6IlRSSSBcdTAwMjYgQlkgT1BPSyBWMSIsInNjeSI6Im5vbmUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJzcGFjZS5ieXUuaWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJzZzMuc29jaWZpbGVzLmNvbSIsImlkIjoiZTBmMzE3NTAtNWFhOS0xMWVlLWFjY2ItMTIzOWQwMjU1MjcyIiwibmV0Ijoid3MiLCJwYXRoIjoiL3Ztd3MiLCJwb3J0IjoiODAiLCJwcyI6IlRSSSBcdTAwMjYgQlkgT1BPSyBWMiIsInNjeSI6Im5vbmUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJvbGQucnVhbmdndXJ1LmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6InNnMy5zb2NpZmlsZXMuY29tIiwiaWQiOiJlMGYzMTc1MC01YWE5LTExZWUtYWNjYi0xMjM5ZDAyNTUyNzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm13cyIsInBvcnQiOiI4MCIsInBzIjoiQllQQVNTIFdJRkkgSUQiLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://3b325800-5aa8-11ee-8283-1239d0255272@198.18.153.105:80?path=%2Fvlws&security=none&encryption=none&host=tsel.me&type=ws#TELKOMSEL+OPOK+500MB
+vless://3b325800-5aa8-11ee-8283-1239d0255272@103.253.24.44:80?path=%2Fvlws&security=none&encryption=none&host=tsel.me&type=ws#TELKOMSEL+OPOK+500MB
+vless://3b325800-5aa8-11ee-8283-1239d0255272@103.253.24.44:80?path=%2Fvlws&security=none&encryption=none&host=tsel.com&type=ws#TELKOMSEL+UNLIMITEDMB
 vless://3b325800-5aa8-11ee-8283-1239d0255272@ovo.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+OPOK
 vless://3b325800-5aa8-11ee-8283-1239d0255272@sogood.linefriends.com:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+FLEX+WA
+vless://3b325800-5aa8-11ee-8283-1239d0255272@103.253.24.44:80?path=%2Fvlws&security=none&encryption=none&host=tsel.me&type=ws#TELKOMSEL+OPOK+500MB
