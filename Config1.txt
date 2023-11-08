@@ -14,3 +14,4 @@ vless://f9c776e0-7b64-11ee-a818-1239d0255272@103.253.24.44:80?path=%2Fvlws&secur
 vless://f9c776e0-7b64-11ee-a818-1239d0255272@103.253.24.44:80?path=%2Fvlws&security=none&encryption=none&host=tsel.com&type=ws#TSEL+OPOK+UNLIMITED
 vless://f9c776e0-7b64-11ee-a818-1239d0255272@www.udemy.com:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#INDOSAT+EDUKASI
 vless://f9c776e0-7b64-11ee-a818-1239d0255272@zendesk1.snapchat.com:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#INDOSAT+SNAPCHAT
+vmess://eyJhZGQiOiIxNzguMTI4LjEyNi4xMjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJ0c2VsLm1lIiwiaWQiOiI4MjJjYWEzNy0xYTViLTRiYjUtOTVkOC00YTc0NGQ0M2E0OGEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IlNhbmFoIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
