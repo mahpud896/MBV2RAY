@@ -1,3 +1,4 @@
+vless://894382b0-9376-11ee-8ff2-1239d0255272@sg:80?path=%2Fvlws&security=none&encryption=none&type=ws#SINGAPORE
 vless://894382b0-9376-11ee-8ff2-1239d0255272@ovo.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+OPOK
 vless://894382b0-9376-11ee-8ff2-1239d0255272@www.udemu.com:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+EDUKASI
 vless://894382b0-9376-11ee-8ff2-1239d0255272@sogood.linefriends.com:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#XL+FLEX+WA
